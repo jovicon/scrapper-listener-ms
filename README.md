@@ -155,6 +155,13 @@ No se permiten caracteres especiales ($#&%?¿)
 /^main-v\d+\.\d+\.\d+$
 ```
 
+### SET REGISTRY CONFIG
+```
+https://sebhastian.com/npm-set-registry/
+
+npm config set registry https://registry.npmjs.org/
+```
+
 ## Mas Información 📖
 
 Si necesitas mas información la puedes encontrar en:

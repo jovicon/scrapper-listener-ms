@@ -1,8 +1,8 @@
 {
-  "name": "template",
+  "name": "Scrapper News MS",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Jose Contreras",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
